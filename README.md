@@ -29,4 +29,7 @@ This project is an interactive Excel dashboard designed to analyze Fashion Retai
 - Slicers
 - Conditional Formatting
 
-
+ ## Author
+Nihana Nasri KK 
+📧 Email: nihana789@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/nihananasri-kk/
