@@ -2,8 +2,12 @@
 ## Dashboard Preview
 ![Dashboard](exceldashboard.png)
 
+---
+
 ## Project Overview
 This project is an interactive Excel dashboard designed to analyze Fashion Retail Sales Performance
+
+---
 
 ## Key Metrics
 
@@ -11,6 +15,8 @@ This project is an interactive Excel dashboard designed to analyze Fashion Retai
 - Total Customers: 3,400
 - Average Discount: 10.09%
 - Average Rating: 3.00
+
+---
 
 ## Features
 
@@ -21,6 +27,8 @@ This project is an interactive Excel dashboard designed to analyze Fashion Retai
 - Top Performing Products
 - Interactive Slicers
 
+---
+
 ## Tools Used
 
 - Microsoft Excel
@@ -28,6 +36,8 @@ This project is an interactive Excel dashboard designed to analyze Fashion Retai
 - Pivot Charts
 - Slicers
 - Conditional Formatting
+
+---
 
  ## Author
 Nihana Nasri KK 
